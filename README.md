@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amar8896
+- 👋 Hi, I’m @Amar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ and javascript
 - 💞️ I’m looking to collaborate on warmup
